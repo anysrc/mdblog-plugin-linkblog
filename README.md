@@ -1,0 +1,2 @@
+# plugin-linkblog
+Linkblog Plugin
