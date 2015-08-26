@@ -1,2 +1,3 @@
-# plugin-linkblog
-Linkblog Plugin
+Linkblog Plugin for Markdown Blog
+
+https://anysrc.net/plugin/linkblog
